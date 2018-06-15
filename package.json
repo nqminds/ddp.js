@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "ejson": "^2.1.2",
-    "wolfy87-eventemitter": "^4.3.0"
+    "wolfy87-eventemitter": "^5.2.4"
   }
 }
